@@ -1,0 +1,33 @@
+{
+    "author": "Kardyne",
+    "authorURL": "https://github.com/Kardyne?tab=repositories",
+    "mods": [
+        {
+            "name": "BandageOverhaul",
+            "displayName": "Bandage Overhaul",
+            "aliases": [],
+            "version": "1.0.0",
+            "updated": "2022-02-09",
+            "description": "Makes bandages increase infection risk on open wounds unless sterilized beforehand.",
+            "modURL": "https://github.com/Kardyne/BandageOverhaul",
+            "downloadURL": "https://github.com/Kardyne/BandageOverhaul/releases/download/v1.0.0/BandageOverhaul.zip",
+            "updater": {
+                "enable": true,
+                "downloads": []
+            },
+            "testedon": {
+                "tldversion": "1.99",
+                "mlversion": "0.5.2"
+            },
+            "dependencies": [
+                "ModComponent",
+                "ModSettings"
+            ],
+            "status": {
+                "working": true,
+                "issues": "",
+                "notes": ""
+            }
+        }
+    ]
+}
